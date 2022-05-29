@@ -1,0 +1,1 @@
+# Automatic-Sign-and-Photo-Detection-From-the-uploaded-documents
